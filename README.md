@@ -6,7 +6,7 @@ Dechrome is a tool written in Rust for batch removing Chromium-based browsers an
 > The script is experimental and wasn't thoroughly tested on all Windows systems.
 
 > [!NOTE]
-> Executing as administrator is preferred in order to remove system-wide installations. Make sure to terminate msedge.exe processes through task manager beforing launching, as the script might fail to delete certain files locked by Edge
+> Executing as administrator is preferred in order to remove system-wide installations. Make sure to terminate msedge.exe processes through task manager before launching, as the script might fail to delete certain files locked by Edge
 
 # Reasoning
 
